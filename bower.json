@@ -10,9 +10,8 @@
     "Ryan Billingsley <https://github.com/ryanbillingsley>"
   ],
   "main": [
-     "Markdown.Converter.js",
-     "Markdown.Sanitizer.js",
-     "Markdown.Editor.js"
+     "Markdown.Converter.js"
+     
   ],
   "description": "PageDown from the fine folks at StackExchange as well as PageDown-Extra from Justin McManus",
   "keywords": [
